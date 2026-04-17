@@ -5,7 +5,6 @@ vendor/
 indexnow.yaml
 google-indexing.yaml
 mcp-server.yaml
-csp-nonce.yaml
 cachepurge.yaml
 # Backup files
 *.bak*

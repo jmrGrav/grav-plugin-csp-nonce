@@ -1,7 +1,7 @@
 name: CSP Nonce
 slug: csp-nonce
 type: plugin
-version: 1.0.0
+version: 1.0.1
 description: Generates a cryptographic CSP nonce per request and injects it into inline scripts and styles for strict Content Security Policy compliance.
 icon: shield
 author:
